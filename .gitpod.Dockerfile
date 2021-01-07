@@ -1,4 +1,4 @@
-FROM klakegg/hugo:pandoc
+FROM klakegg/hugo:ext-pandoc-ci
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
