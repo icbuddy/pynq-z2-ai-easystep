@@ -3,4 +3,4 @@ image:
 
 tasks:
   - init: 'cd /workspace; hugo new site quick; cd quick/; git init; git submodule add https://github.com/xiaoheiAh/hugo-theme-pure.git themes/pure; hugo new posts/first.md'
-    command: 'hugo server -t pure -w --appendPort=false --buildDrafts #--baseUrl="https://1313-c3cbc723-66f3-4f43-b602-712097b3dd33.ws-us03.gitpod.io/'
+    command: 'hugo server -t pure -w --appendPort=false --buildDrafts --baseUrl=$GITPOD_WORKSPACE_URL/'
