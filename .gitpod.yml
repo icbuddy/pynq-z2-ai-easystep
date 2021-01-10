@@ -2,5 +2,5 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: 'cd /workspace; hugo new site quick; cd quick/; git init; git submodule add https://github.com/alex-shpak/hugo-book themes/book; cp -R themes/book/exampleSite/content .; hugo new posts/first.md'
+  - init: 'cd docs'
     command: 'hugo server -t book -w --appendPort=false --buildDrafts --baseUrl=$(echo "$GITPOD_WORKSPACE_URL" | sed "s/$GITPOD_WORKSPACE_ID/1313-$GITPOD_WORKSPACE_ID/") --liveReloadPort=443'
