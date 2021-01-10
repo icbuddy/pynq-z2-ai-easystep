@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/pynq-z2-ai-easystep/sw.js",{scope:"/pynq-z2-ai-easystep/"});}

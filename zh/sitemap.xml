@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/zh/categories/</loc>
+    <loc>https://icbuddy.github.io/pynq-z2-ai-easystep/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://icbuddy.github.io/pynq-z2-ai-easystep/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/zh/categories/"
+                href="https://icbuddy.github.io/pynq-z2-ai-easystep/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/zh/tags/</loc>
+    <loc>https://icbuddy.github.io/pynq-z2-ai-easystep/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://icbuddy.github.io/pynq-z2-ai-easystep/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/zh/tags/"
+                href="https://icbuddy.github.io/pynq-z2-ai-easystep/zh/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/zh/</loc>
+    <loc>https://icbuddy.github.io/pynq-z2-ai-easystep/zh/</loc>
     <lastmod>2021-01-10T14:58:12+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://icbuddy.github.io/pynq-z2-ai-easystep/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/zh/"
+                href="https://icbuddy.github.io/pynq-z2-ai-easystep/zh/"
                 />
   </url>
   

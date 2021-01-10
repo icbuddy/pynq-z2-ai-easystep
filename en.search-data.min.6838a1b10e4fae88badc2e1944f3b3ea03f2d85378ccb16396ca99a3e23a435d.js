@@ -1,0 +1,1 @@
+'use strict';(function(){const indexCfg={cache:true};indexCfg.doc={id:'id',field:['title','content'],store:['title','href','section'],};const index=FlexSearch.create('balance',indexCfg);window.bookSearchIndex=index;index.add({'id':0,'href':'/pynq-z2-ai-easystep/docs/fld1/fld2/','title':"Fld2",'section':"Fld1",'content':"1 #  2 #  :)\n"});})();

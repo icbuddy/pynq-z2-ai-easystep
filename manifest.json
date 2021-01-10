@@ -1,14 +1,14 @@
 {
   "name": "Pynq-Z2 AI easy step",
   "short_name": "Pynq-Z2 AI easy step",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/pynq-z2-ai-easystep/",
+  "scope": "/pynq-z2-ai-easystep/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/pynq-z2-ai-easystep/favicon.svg",
       "sizes": "512x512"
     }
   ]
