@@ -1,7 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 # cd /workspace; hugo new site quick; cd quick/; git init; git submodule add https://github.com/alex-shpak/hugo-book themes/book; cp -R themes/book/exampleSite/content .; hugo new posts/first.md
 
-#publishDir: "../public"
 baseURL: https://icbuddy.github.io/pynq-z2-ai-easystep/
 title: Pynq-Z2 AI easy step
 theme: book

@@ -2,5 +2,5 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: 'cd docs'
+  - init: 'git worktree add -B gh-pages docs/public origin/gh-pages; cd docs'
     command: 'hugo server -t book -w --appendPort=false --buildDrafts --baseUrl=$(echo "$GITPOD_WORKSPACE_URL" | sed "s/$GITPOD_WORKSPACE_ID/1313-$GITPOD_WORKSPACE_ID/") --liveReloadPort=443'
